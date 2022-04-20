@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>cd2022 - Misc</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2022-04-20T08:58:13+08:00</updated><entry><title>W8</title><link href="./w8.html.html" rel="alternate"></link><published>2022-04-13T12:00:00+08:00</published><updated>2022-04-20T08:58:13+08:00</updated><author><name>40923107</name></author><id>tag:None,2022-04-13:./w8.html.html</id><summary type="html">&lt;p&gt;2022 Spring 協同產品設計實習&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>cd2022 - Misc</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2022-04-20T09:02:39+08:00</updated><entry><title>W8</title><link href="./w8.html.html" rel="alternate"></link><published>2022-04-13T12:00:00+08:00</published><updated>2022-04-20T09:02:39+08:00</updated><author><name>40923107</name></author><id>tag:None,2022-04-13:./w8.html.html</id><summary type="html">&lt;p&gt;2022 Spring 協同產品設計實習&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2022 Spring 協同產品設計實習&lt;/p&gt;
 
 
 &lt;p&gt;任務：&lt;/p&gt;
-&lt;p&gt;1.編譯 simExtMtb plugin 專案
-2.將組員分為三組, 分別以 Solvespace, NX (12, 1980 或 2008) 及 Onshape, 完成各零件工程圖與組合圖後, 將 uarm 組合件轉為 STL 格式後轉入 CoppeliaSim, 並安排以 GUI Slider 方式控制前三軸作動. &lt;/p&gt;
+&lt;p&gt;1.編譯 simExtMtb plugin 專案 &lt;/p&gt;
+&lt;p&gt;2.將組員分為三組, 分別以 Solvespace, NX (12, 1980 或 2008) 及 Onshape, 完成各零件工程圖與組合圖後, 將 uarm 組合件轉為 STL 格式後轉入 CoppeliaSim, 並安排以 GUI Slider 方式控制前三軸作動. &lt;/p&gt;
 &lt;p&gt;當前進度：
 以 Solvespace 繪製零件，還未組合。&lt;/p&gt;
 &lt;p&gt;工作分配&lt;/p&gt;
 &lt;p&gt;分配W8任務&lt;/p&gt;
 &lt;p&gt;40923104、40932106：Onshape , &lt;/p&gt;
 &lt;p&gt;40923102、40923110：NX1980 , &lt;/p&gt;
-&lt;p&gt;40923105、40923107：Solvespace&lt;/p&gt;</content><category term="Misc"></category><category term="2022SpringCD"></category></entry><entry><title>W7</title><link href="./w7_summary.html.html" rel="alternate"></link><published>2022-04-06T12:00:00+08:00</published><updated>2022-04-20T08:58:13+08:00</updated><author><name>40923107</name></author><id>tag:None,2022-04-06:./w7_summary.html.html</id><summary type="html">&lt;p&gt;2022 Spring 協同產品設計實習&lt;/p&gt;
+&lt;p&gt;40923105、40923107：Solvespace&lt;/p&gt;</content><category term="Misc"></category><category term="2022SpringCD"></category></entry><entry><title>W7</title><link href="./w7_summary.html.html" rel="alternate"></link><published>2022-04-06T12:00:00+08:00</published><updated>2022-04-20T09:02:39+08:00</updated><author><name>40923107</name></author><id>tag:None,2022-04-06:./w7_summary.html.html</id><summary type="html">&lt;p&gt;2022 Spring 協同產品設計實習&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2022 Spring 協同產品設計實習&lt;/p&gt;
 
 
-&lt;p&gt;任務：
-1.利用隨身程式系統編譯 SCARA robot 模擬系統`.
-2.繪製 Pick and Place demo 範例所需的零組件，自訂連桿尺寸，並完成 Coppeliasim 4.1.0、4.2.0 與 4.3.0 版的 MTB 機械手臂 Pick and Place 模擬。&lt;/p&gt;
+&lt;p&gt;任務：&lt;/p&gt;
+&lt;p&gt;1.利用隨身程式系統編譯 SCARA robot 模擬系統`. &lt;/p&gt;
+&lt;p&gt;2.繪製 Pick and Place demo 範例所需的零組件，自訂連桿尺寸，並完成 Coppeliasim 4.1.0、4.2.0 與 4.3.0 版的 MTB 機械手臂 Pick and Place 模擬。&lt;/p&gt;
 &lt;p&gt;當前進度：
 1.已完成
 2.已完成零件繪製。&lt;/p&gt;
@@ -27,7 +27,11 @@
 &lt;p&gt;40923104：Solvespace , &lt;/p&gt;
 &lt;p&gt;40923106：Onshape , &lt;/p&gt;
 &lt;p&gt;40923107：NX2008 , &lt;/p&gt;
-&lt;p&gt;40923110：NX12&lt;/p&gt;</content><category term="Misc"></category><category term="2022SpringCD"></category></entry><entry><title>W6</title><link href="./w6_40923107.html.html" rel="alternate"></link><published>2022-03-29T11:00:00+08:00</published><updated>2022-04-20T08:17:57+08:00</updated><author><name>40923107</name></author><id>tag:None,2022-03-29:./w6_40923107.html.html</id><summary type="html">&lt;p&gt;2022 Spring 協同產品設計實習&lt;/p&gt;
+&lt;p&gt;40923110：NX12&lt;/p&gt;</content><category term="Misc"></category><category term="2022SpringCD"></category></entry><entry><title>W6</title><link href="./w6_40923107.html.html" rel="alternate"></link><published>2022-03-29T11:00:00+08:00</published><updated>2022-04-20T08:58:13+08:00</updated><author><name>40923107</name></author><id>tag:None,2022-03-29:./w6_40923107.html.html</id><summary type="html">&lt;p&gt;2022 Spring 協同產品設計實習&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2022 Spring 協同產品設計實習&lt;/p&gt;
+
+
+&lt;p&gt;建立個人Blog並查驗。&lt;/p&gt;</content><category term="Misc"></category><category term="2022SpringCD"></category></entry><entry><title>W6</title><link href="./w6_40923107.html.html" rel="alternate"></link><published>2022-03-29T11:00:00+08:00</published><updated>2022-04-20T08:17:57+08:00</updated><author><name>40923107</name></author><id>tag:None,2022-03-29:./w6_40923107.html.html</id><summary type="html">&lt;p&gt;2022 Spring 協同產品設計實習&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2022 Spring 協同產品設計實習&lt;/p&gt;
 
 
@@ -40,8 +44,4 @@
 &lt;p&gt;Python 可以用來控制 CoppeliaSim 與 Webots 虛擬環境中的機電系統&lt;/p&gt;
 &lt;p&gt;Python 可以用於機器學習 Keras, Pytorch&lt;/p&gt;
 &lt;h2&gt;Flutter&lt;/h2&gt;
-&lt;p&gt;Flutter 可以用來開發跨 Apple 與 Android 手機與平板上的 Apps&lt;/p&gt;</content><category term="Misc"></category><category term="2022SpringCD"></category></entry><entry><title>W6</title><link href="./w6_40923107.html.html" rel="alternate"></link><published>2022-03-29T11:00:00+08:00</published><updated>2022-04-20T08:58:13+08:00</updated><author><name>40923107</name></author><id>tag:None,2022-03-29:./w6_40923107.html.html</id><summary type="html">&lt;p&gt;2022 Spring 協同產品設計實習&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2022 Spring 協同產品設計實習&lt;/p&gt;
-
-
-&lt;p&gt;建立個人Blog並查驗。&lt;/p&gt;</content><category term="Misc"></category><category term="2022SpringCD"></category></entry></feed>
+&lt;p&gt;Flutter 可以用來開發跨 Apple 與 Android 手機與平板上的 Apps&lt;/p&gt;</content><category term="Misc"></category><category term="2022SpringCD"></category></entry></feed>
