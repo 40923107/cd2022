@@ -7,7 +7,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 
 
-  <title>cd2022</title>
+  <title>W10</title>
 
 
   <meta name="HandheldFriendly" content="True" />
@@ -18,6 +18,7 @@
 
   <!-- Feed -->
         <link href="./feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="cd2022 Full Atom Feed" />
+          <link href="./feeds/{slug}.atom.xml" type="application/atom+xml" rel="alternate" title="cd2022 Categories Atom Feed" />
 
   <link href="./theme/css/style.css" type="text/css" rel="stylesheet" />
 
@@ -39,27 +40,49 @@
   <![endif]-->
 
 
+    <link href="./w10_block_ui.html" rel="canonical" />
+
+        <meta name="description" content="2022 Spring 協同產品設計實習">
+
+        <meta name="author" content="40923107">
+
+        <meta name="tags" content="2022SpringCD">
+
+
 
 
 <!-- Open Graph -->
 <meta property="og:site_name" content="cd2022"/>
-<meta property="og:type" content="blog"/>
-<meta property="og:title" content="cd2022"/>
-<meta property="og:description" content="View the blog."/>
+<meta property="og:title" content="W10"/>
+<meta property="og:description" content="2022 Spring 協同產品設計實習"/>
 <meta property="og:locale" content="en_US"/>
-<meta property="og:url" content="./"/>
-<meta property="og:image" content="./theme/images/home-bg.jpg">
+<meta property="og:url" content="./w10_block_ui.html"/>
+<meta property="og:type" content="article"/>
+<meta property="article:published_time" content="2022-04-27 12:00:00+08:00"/>
+<meta property="article:modified_time" content="2022-04-27 19:09:02+08:00"/>
+<meta property="article:author" content="./author/40923107.html">
+<meta property="article:section" content="Misc"/>
+<meta property="article:tag" content="2022SpringCD"/>
+<meta property="og:image" content="./theme/images/post-bg.jpg">
 
 <!-- Twitter Card -->
 
 <script type="application/ld+json">
 {
-  "@context" : "http://schema.org",
-  "@type" : "Website",
-  "name": " cd2022 ",
-  "url" : "./",
-  "image": "./theme/images/home-bg.jpg",
-  "description": "View the blog."
+  "@context": "http://schema.org",
+  "@type": "Article",
+  "name": "W10",
+  "headline": "W10",
+  "datePublished": "2022-04-27 12:00:00+08:00",
+  "dateModified": "2022-04-27 19:09:02+08:00",
+  "author": {
+    "@type": "Person",
+    "name": "40923107",
+    "url": "./author/40923107.html"
+  },
+  "image": "./theme/images/post-bg.jpg",
+  "url": "./w10_block_ui.html",
+  "description": "2022 Spring 協同產品設計實習"
 }
 </script>
 <script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shCore.js"></script>
@@ -157,21 +180,34 @@ init_mathjax();
     </ul>
   </div>
 </nav>
+    <!-- Progressbar -->
+    <div class="progress-container">
+        <span class="progress-bar"></span>
+    </div>
+
     <!-- Page Header -->
     <!-- Set your background image for this header on the line below. -->
-    <header id="blog-header" class="has-cover">
+    <header id="post-header" class="has-cover">
       <div class="inner">
         <nav id="navigation">
+            <span id="home-button" class="nav-button">
+                <a class="home-button" href="./index.html" title="Home"><i class="ic ic-arrow-left"></i> Home</a>
+            </span>
           <span id="menu-button" class="nav-button">
             <a class="menu-button"><i class="ic ic-menu"></i> Menu</a>
           </span>
         </nav>
-        <h1 class="blog-name"><a href="./">cd2022</a></h1>
-            <div class="blog-cover cover" style="background-image: url('./theme/images/home-bg.jpg')">
-        
+        <h1 class="post-title">W10</h1>
+        <!-- TODO : Proper class for headline -->
+        <span class="post-meta">
+                <a href="./author/40923107.html">40923107</a>
+            | <time datetime="週三 27 四月 2022">週三 27 四月 2022</time>
+        </span>
+        <!-- TODO : Modified check -->
+            <span class="post-meta"> | Updated on 週三 27 四月 2022</span>
+            <div class="post-cover cover" style="background-image: url('./theme/images/post-bg.jpg')">
       </div>
     </header>
-
 
   <section id="wrapper">
     <a class="hidden-close"></a>
@@ -183,121 +219,59 @@ init_mathjax();
 </section>
 
 
-<div id="index" class="container">
-  <main class="content" role="main">
-    <div class="extra-pagination">
-<nav class="pagination" role="pagination">
-  <div class="inner">
-    <span class="pagination-info">Page 1 / 1</span>
-    <div class="clear"></div>
-  </div>
-</nav>
-    </div>
-
+    <!-- Post content -->
+    <main class="content" role="main">
         <article class="post">
         <div class="inner">
-            <header class="post-header">         
-                <h2 class="post-title"><a href="./w10_block_ui.html" rel="bookmark" title="Permalink to W10">W10</a>
-                </h2>
-                <span class="post-meta">
-                        <a href="./author/40923107.html">40923107</a>
-                     | <time datetime="週三 27 四月 2022">週三 27 四月 2022</time>
-                </span>
-                <div class="clear"></div>
-            </header>
-                <section class="post-excerpt">
-                    <p>
-                        <p>2022 Spring 協同產品設計實習</p>
+            <section class="post-content">
+                <p>2022 Spring 協同產品設計實習</p>
 
-                    </p>
+
+<p>工作分配</p>
+<p>40923104、40932106：Onshape , </p>
+<p>40923102、40923110：NX1980 , </p>
+<p>40923105、40923107：Solvespace</p>
+<p>Solvespace 零件下載：
+https://drive.google.com/drive/folders/1Gr6n-bgKfod9aW5TIBJxq0c1moIcSEmz?usp=sharing</p>
+            </section>
+
+            <section class="post-info">
+                <div class="post-share">
+                    <a class="twitter" href="https://twitter.com/share?text=W10&amp;url=./w10_block_ui.html" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+                    <i class="ic ic-twitter"></i><span class="hidden">Twitter</span>
+                    </a>
+                    <a class="facebook" href="https://www.facebook.com/sharer/sharer.php?u=./w10_block_ui.html" onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
+                    <i class="ic ic-facebook"></i><span class="hidden">Facebook</span>
+                    </a>
+                    <a class="googleplus" href="https://plus.google.com/share?url=./w10_block_ui.html" onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
+                    <i class="ic ic-googleplus"></i><span class="hidden">Google+</span>
+                    </a>
+                    <div class="clear"></div>
+                </div>
+
+                <aside class="post-tags">
+<a href="./tag/2022springcd.html">2022SpringCD</a>                </aside>
+
+                <div class="clear"></div>
+
+
                 </section>
+
+
+                <aside class="post-nav">
+                    <a class="post-nav-prev" href="./midterm.html.html">
+                        <section class="post-nav-teaser">
+                            <i class="ic ic-arrow-right"></i>
+                                <h2 class="post-nav-title">W8</h2>
+                            <p class="post-nav-excerpt">2022 Spring 協同產品設計實習</p>
+                        </section>
+                    </a>
+                    <div class="clear"></div>
+                </aside>
+
             </div>
         </article>
-        <article class="post">
-        <div class="inner">
-            <header class="post-header">         
-                <h2 class="post-title"><a href="./midterm.html.html" rel="bookmark" title="Permalink to W8">W8</a>
-                </h2>
-                <span class="post-meta">
-                        <a href="./author/40923107.html">40923107</a>
-                     | <time datetime="週三 13 四月 2022">週三 13 四月 2022</time>
-                </span>
-                <div class="clear"></div>
-            </header>
-                <section class="post-excerpt">
-                    <p>
-                        <p>2022 Spring 協同產品設計實習</p>
-
-                    </p>
-                </section>
-            </div>
-        </article>
-        <article class="post">
-        <div class="inner">
-            <header class="post-header">         
-                <h2 class="post-title"><a href="./w7_summary.html" rel="bookmark" title="Permalink to W7">W7</a>
-                </h2>
-                <span class="post-meta">
-                        <a href="./author/40923107.html">40923107</a>
-                     | <time datetime="週三 06 四月 2022">週三 06 四月 2022</time>
-                </span>
-                <div class="clear"></div>
-            </header>
-                <section class="post-excerpt">
-                    <p>
-                        <p>2022 Spring 協同產品設計實習</p>
-
-                    </p>
-                </section>
-            </div>
-        </article>
-        <article class="post">
-        <div class="inner">
-            <header class="post-header">         
-                <h2 class="post-title"><a href="./w6_40923107.html" rel="bookmark" title="Permalink to W6">W6</a>
-                </h2>
-                <span class="post-meta">
-                        <a href="./author/40923107.html">40923107</a>
-                     | <time datetime="週二 29 三月 2022">週二 29 三月 2022</time>
-                </span>
-                <div class="clear"></div>
-            </header>
-                <section class="post-excerpt">
-                    <p>
-                        <p>2022 Spring 協同產品設計實習</p>
-
-                    </p>
-                </section>
-            </div>
-        </article>
-        <article class="post">
-        <div class="inner">
-            <header class="post-header">         
-                <h2 class="post-title"><a href="./w6_40923107.html.html" rel="bookmark" title="Permalink to W6">W6</a>
-                </h2>
-                <span class="post-meta">
-                        <a href="./author/40923107.html">40923107</a>
-                     | <time datetime="週二 29 三月 2022">週二 29 三月 2022</time>
-                </span>
-                <div class="clear"></div>
-            </header>
-                <section class="post-excerpt">
-                    <p>
-                        <p>2022 Spring 協同產品設計實習</p>
-
-                    </p>
-                </section>
-            </div>
-        </article>
-
-<nav class="pagination" role="pagination">
-  <div class="inner">
-    <span class="pagination-info">Page 1 / 1</span>
-    <div class="clear"></div>
-  </div>
-</nav>
-  </main>
-</div>
+    </main>
       <!-- TODO : Body class -->
     <div id="body-class" style="display: none;" class=""></div>
 
