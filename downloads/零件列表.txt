@@ -1,0 +1,1247 @@
+﻿******************************
+第 1 個零件:
+64763
+units: kg, mm
+surface area: 1.9912cm^2
+volume: 0.1289cm^3
+weight: 0.348g
+M4X7 平头螺丝
+******************************
+第 2 個零件:
+107051
+units: kg, mm
+surface area: 0.5717cm^2
+volume: 0.0192cm^3
+weight: 0.0518g
+M2X4螺丝
+******************************
+第 3 個零件:
+85482
+units: kg, mm
+surface area: 2.3732cm^2
+volume: 0.1264cm^3
+weight: 0.3412g
+MF84
+******************************
+第 4 個零件:
+85474
+units: kg, mm
+surface area: 1.6831cm^2
+volume: 0.0969cm^3
+weight: 0.2616g
+M3X4 内六角圆头螺丝
+******************************
+第 5 個零件:
+74252
+units: kg, mm
+surface area: 0.8968cm^2
+volume: 0.0274cm^3
+weight: 0.0741g
+M4X5 顶丝
+******************************
+第 6 個零件:
+64735
+units: kg, mm
+surface area: 2.4068cm^2
+volume: 0.1659cm^3
+weight: 0.4478g
+M4X10 平头螺丝
+******************************
+第 7 個零件:
+64733
+units: kg, mm
+surface area: 2.4068cm^2
+volume: 0.1659cm^3
+weight: 0.4478g
+M4X10 平头螺丝
+******************************
+第 8 個零件:
+107049
+units: kg, mm
+surface area: 0.5717cm^2
+volume: 0.0192cm^3
+weight: 0.0518g
+M2X4螺丝
+******************************
+第 9 個零件:
+107055
+units: kg, mm
+surface area: 0.5717cm^2
+volume: 0.0192cm^3
+weight: 0.0518g
+M2X4螺丝
+******************************
+第 10 個零件:
+74242
+units: kg, mm
+surface area: 0.8968cm^2
+volume: 0.0274cm^3
+weight: 0.0741g
+M4X5 顶丝
+******************************
+第 11 個零件:
+85490
+units: kg, mm
+surface area: 2.3732cm^2
+volume: 0.1264cm^3
+weight: 0.3412g
+MF84
+******************************
+第 12 個零件:
+87146
+units: kg, mm
+surface area: 35.9404cm^2
+volume: 2.8878cm^3
+weight: 7.7971g
+末端连杆
+******************************
+第 13 個零件:
+85472
+units: kg, mm
+surface area: 1.6831cm^2
+volume: 0.0969cm^3
+weight: 0.2616g
+M3X4 内六角圆头螺丝
+******************************
+第 14 個零件:
+64767
+units: kg, mm
+surface area: 1.9912cm^2
+volume: 0.1289cm^3
+weight: 0.348g
+M4X7 平头螺丝
+******************************
+第 15 個零件:
+86303
+units: kg, mm
+surface area: 1.486cm^2
+volume: 0.0726cm^3
+weight: 0.1959g
+3mm铝支撑柱
+******************************
+第 16 個零件:
+107067
+units: kg, mm
+surface area: 0.9074cm^2
+volume: 0.0366cm^3
+weight: 0.0989g
+M3X5 沉头螺丝
+******************************
+第 17 個零件:
+85478
+units: kg, mm
+surface area: 1.1294cm^2
+volume: 0.0531cm^3
+weight: 0.1434g
+M3X5 平头螺丝
+******************************
+第 18 個零件:
+107053
+units: kg, mm
+surface area: 0.5717cm^2
+volume: 0.0192cm^3
+weight: 0.0518g
+M2X4螺丝
+******************************
+第 19 個零件:
+64751
+units: kg, mm
+surface area: 1.4736cm^2
+volume: 0.0543cm^3
+weight: 0.1465g
+M3X5 扁平头铁镀镍螺丝
+******************************
+第 20 個零件:
+64709
+units: kg, mm
+surface area: 32.4311cm^2
+volume: 5.2902cm^3
+weight: 14.2836g
+前端通用件
+******************************
+第 21 個零件:
+86321
+units: kg, mm
+surface area: 1.2386cm^2
+volume: 0.0596cm^3
+weight: 0.1608g
+M3X5 圆头黑色十字螺丝
+******************************
+第 22 個零件:
+86329
+units: kg, mm
+surface area: 1.2386cm^2
+volume: 0.0596cm^3
+weight: 0.1608g
+M3X5 圆头黑色十字螺丝
+******************************
+第 23 個零件:
+94151
+units: kg, mm
+surface area: 1.7185cm^2
+volume: 0.0944cm^3
+weight: 0.255g
+M3X6 内六角圆头螺丝
+******************************
+第 24 個零件:
+75094
+units: kg, mm
+surface area: 9.2138cm^2
+volume: 1.2004cm^3
+weight: 3.241g
+输出轴（两侧电机）
+******************************
+第 25 個零件:
+75127
+units: kg, mm
+surface area: 110.0368cm^2
+volume: 19.1809cm^3
+weight: 51.7884g
+减速箱下壳（两侧电机）
+******************************
+第 26 個零件:
+94161
+units: kg, mm
+surface area: 1.0367cm^2
+volume: 0.0707cm^3
+weight: 0.1909g
+6X2.5 磁铁
+******************************
+第 27 個零件:
+75117
+units: kg, mm
+surface area: 101.9571cm^2
+volume: 55.256cm^3
+weight: 149.1913g
+42步进电机
+******************************
+第 28 個零件:
+75133
+units: kg, mm
+surface area: 121.6767cm^2
+volume: 16.499cm^3
+weight: 44.5472g
+减速箱上壳（两侧）
+******************************
+第 29 個零件:
+105348
+units: kg, mm
+surface area: 27.6969cm^2
+volume: 2.2459cm^3
+weight: 6.0639g
+磁编码器PCB
+******************************
+第 30 個零件:
+105404
+units: kg, mm
+surface area: 1.7185cm^2
+volume: 0.0944cm^3
+weight: 0.255g
+M3X6 内六角圆头螺丝
+******************************
+第 31 個零件:
+105402
+units: kg, mm
+surface area: 1.7185cm^2
+volume: 0.0944cm^3
+weight: 0.255g
+M3X6 内六角圆头螺丝
+******************************
+第 32 個零件:
+94153
+units: kg, mm
+surface area: 1.7185cm^2
+volume: 0.0944cm^3
+weight: 0.255g
+M3X6 内六角圆头螺丝
+******************************
+第 33 個零件:
+85456
+units: kg, mm
+surface area: 1.5614cm^2
+volume: 0.0833cm^3
+weight: 0.225g
+M4X6 沉头螺丝
+******************************
+第 34 個零件:
+74248
+units: kg, mm
+surface area: 0.8968cm^2
+volume: 0.0274cm^3
+weight: 0.0741g
+M4X5 顶丝
+******************************
+第 35 個零件:
+74258
+units: kg, mm
+surface area: 0.8968cm^2
+volume: 0.0274cm^3
+weight: 0.0741g
+M4X5 顶丝
+******************************
+第 36 個零件:
+64757
+units: kg, mm
+surface area: 1.9912cm^2
+volume: 0.1289cm^3
+weight: 0.348g
+M4X7 平头螺丝
+******************************
+第 37 個零件:
+86285
+units: kg, mm
+surface area: 1.9912cm^2
+volume: 0.1289cm^3
+weight: 0.348g
+M4X7 平头螺丝
+******************************
+第 38 個零件:
+107065
+units: kg, mm
+surface area: 0.9074cm^2
+volume: 0.0366cm^3
+weight: 0.0989g
+M3X5 沉头螺丝
+******************************
+第 39 個零件:
+108726
+units: kg, mm
+surface area: 69.2815cm^2
+volume: 8.2651cm^3
+weight: 22.3158g
+塑料盖板
+******************************
+第 40 個零件:
+61387
+units: kg, mm
+surface area: 46.535cm^2
+volume: 8.1484cm^3
+weight: 22.0008g
+47X30X9 轴承
+******************************
+第 41 個零件:
+105398
+units: kg, mm
+surface area: 1.4732cm^2
+volume: 0.0812cm^3
+weight: 0.2191g
+8.3X1.5 防滑垫
+******************************
+第 42 個零件:
+105396
+units: kg, mm
+surface area: 1.4732cm^2
+volume: 0.0812cm^3
+weight: 0.2191g
+8.3X1.5 防滑垫
+******************************
+第 43 個零件:
+105394
+units: kg, mm
+surface area: 1.4732cm^2
+volume: 0.0812cm^3
+weight: 0.2191g
+8.3X1.5 防滑垫
+******************************
+第 44 個零件:
+105392
+units: kg, mm
+surface area: 1.4732cm^2
+volume: 0.0812cm^3
+weight: 0.2191g
+8.3X1.5 防滑垫
+******************************
+第 45 個零件:
+75090
+units: kg, mm
+surface area: 222.1077cm^2
+volume: 58.1919cm^3
+weight: 157.1181g
+轴承支撑圈
+******************************
+第 46 個零件:
+105370
+units: kg, mm
+surface area: 4.2129cm^2
+volume: 0.5192cm^3
+weight: 1.4019g
+按钮
+******************************
+第 47 個零件:
+75113
+units: kg, mm
+surface area: 312.1486cm^2
+volume: 55.7709cm^3
+weight: 150.5814g
+底座中间部分
+******************************
+第 48 個零件:
+75100
+units: kg, mm
+surface area: 13.1412cm^2
+volume: 1.4309cm^3
+weight: 3.8633g
+导光件
+******************************
+第 49 個零件:
+105390
+units: kg, mm
+surface area: 1.4732cm^2
+volume: 0.0812cm^3
+weight: 0.2191g
+8.3X1.5 防滑垫
+******************************
+第 50 個零件:
+75123
+units: kg, mm
+surface area: 205.2824cm^2
+volume: 28.0158cm^3
+weight: 75.6427g
+底座上盖
+******************************
+第 51 個零件:
+94187
+units: kg, mm
+surface area: 1.2386cm^2
+volume: 0.0596cm^3
+weight: 0.1608g
+M3X5 圆头黑色十字螺丝
+******************************
+第 52 個零件:
+94203
+units: kg, mm
+surface area: 4.7438cm^2
+volume: 0.4276cm^3
+weight: 1.1547g
+5-13-4轴承1
+******************************
+第 53 個零件:
+94189
+units: kg, mm
+surface area: 1.2386cm^2
+volume: 0.0596cm^3
+weight: 0.1608g
+M3X5 圆头黑色十字螺丝
+******************************
+第 54 個零件:
+105358
+units: kg, mm
+surface area: 6.3094cm^2
+volume: 0.5336cm^3
+weight: 1.4409g
+电源按键
+******************************
+第 55 個零件:
+108734
+units: kg, mm
+surface area: 152.7641cm^2
+volume: 5.1553cm^3
+weight: 13.9193g
+底座上盖 贴纸
+******************************
+第 56 個零件:
+105362
+units: kg, mm
+surface area: 3.9047cm^2
+volume: 0.2133cm^3
+weight: 0.576g
+M3X15 双通螺柱
+******************************
+第 57 個零件:
+105354
+units: kg, mm
+surface area: 14.88cm^2
+volume: 1.26cm^3
+weight: 3.402g
+2mm导热硅胶片
+******************************
+第 58 個零件:
+105388
+units: kg, mm
+surface area: 1.4732cm^2
+volume: 0.0812cm^3
+weight: 0.2191g
+8.3X1.5 防滑垫
+******************************
+第 59 個零件:
+94199
+units: kg, mm
+surface area: 320.087cm^2
+volume: 39.2389cm^3
+weight: 105.9451g
+底座盖
+******************************
+第 60 個零件:
+108730
+units: kg, mm
+surface area: 47.4274cm^2
+volume: 5.0362cm^3
+weight: 13.5978g
+3Dprint 转接板
+******************************
+第 61 個零件:
+105376
+units: kg, mm
+surface area: 2.8088cm^2
+volume: 0.1522cm^3
+weight: 0.411g
+按键帽（短）
+******************************
+第 62 個零件:
+105386
+units: kg, mm
+surface area: 1.4732cm^2
+volume: 0.0812cm^3
+weight: 0.2191g
+8.3X1.5 防滑垫
+******************************
+第 63 個零件:
+105380
+units: kg, mm
+surface area: 5.7367cm^2
+volume: 0.3889cm^3
+weight: 1.05g
+切换按键
+******************************
+第 64 個零件:
+94157
+units: kg, mm
+surface area: 0.2879cm^2
+volume: 0.0089cm^3
+weight: 0.0241g
+2mm导光柱
+******************************
+第 65 個零件:
+105374
+units: kg, mm
+surface area: 2.8088cm^2
+volume: 0.1522cm^3
+weight: 0.411g
+按键帽（短）
+******************************
+第 66 個零件:
+105384
+units: kg, mm
+surface area: 1.4732cm^2
+volume: 0.0812cm^3
+weight: 0.2191g
+8.3X1.5 防滑垫
+******************************
+第 67 個零件:
+105368
+units: kg, mm
+surface area: 4.2129cm^2
+volume: 0.5192cm^3
+weight: 1.4019g
+按钮
+******************************
+第 68 個零件:
+105364
+units: kg, mm
+surface area: 3.9047cm^2
+volume: 0.2133cm^3
+weight: 0.576g
+M3X15 双通螺柱
+******************************
+第 69 個零件:
+64705
+units: kg, mm
+surface area: 28.3888cm^2
+volume: 1.7188cm^3
+weight: 4.6407g
+末端PCB
+******************************
+第 70 個零件:
+64749
+units: kg, mm
+surface area: 1.4736cm^2
+volume: 0.0543cm^3
+weight: 0.1465g
+M3X5 扁平头铁镀镍螺丝
+******************************
+第 71 個零件:
+74254
+units: kg, mm
+surface area: 0.8968cm^2
+volume: 0.0274cm^3
+weight: 0.0741g
+M4X5 顶丝
+******************************
+第 72 個零件:
+107059
+units: kg, mm
+surface area: 0.5717cm^2
+volume: 0.0192cm^3
+weight: 0.0518g
+M2X4螺丝
+******************************
+第 73 個零件:
+64741
+units: kg, mm
+surface area: 3.0665cm^2
+volume: 0.2349cm^3
+weight: 0.6342g
+M4X15 平头螺丝
+******************************
+第 74 個零件:
+64765
+units: kg, mm
+surface area: 1.9912cm^2
+volume: 0.1289cm^3
+weight: 0.348g
+M4X7 平头螺丝
+******************************
+第 75 個零件:
+85492
+units: kg, mm
+surface area: 2.3732cm^2
+volume: 0.1264cm^3
+weight: 0.3412g
+MF84
+******************************
+第 76 個零件:
+107043
+units: kg, mm
+surface area: 0.5717cm^2
+volume: 0.0192cm^3
+weight: 0.0518g
+M2X4螺丝
+******************************
+第 77 個零件:
+107047
+units: kg, mm
+surface area: 0.5717cm^2
+volume: 0.0192cm^3
+weight: 0.0518g
+M2X4螺丝
+******************************
+第 78 個零件:
+94147
+units: kg, mm
+surface area: 1.7185cm^2
+volume: 0.0944cm^3
+weight: 0.255g
+M3X6 内六角圆头螺丝
+******************************
+第 79 個零件:
+75096
+units: kg, mm
+surface area: 9.2138cm^2
+volume: 1.2004cm^3
+weight: 3.241g
+输出轴（两侧电机）
+******************************
+第 80 個零件:
+75129
+units: kg, mm
+surface area: 110.0368cm^2
+volume: 19.1809cm^3
+weight: 51.7884g
+减速箱下壳（两侧电机）
+******************************
+第 81 個零件:
+94163
+units: kg, mm
+surface area: 1.0367cm^2
+volume: 0.0707cm^3
+weight: 0.1909g
+6X2.5 磁铁
+******************************
+第 82 個零件:
+75119
+units: kg, mm
+surface area: 101.9571cm^2
+volume: 55.256cm^3
+weight: 149.1913g
+42步进电机
+******************************
+第 83 個零件:
+75135
+units: kg, mm
+surface area: 121.6767cm^2
+volume: 16.499cm^3
+weight: 44.5472g
+减速箱上壳（两侧）
+******************************
+第 84 個零件:
+105350
+units: kg, mm
+surface area: 27.6969cm^2
+volume: 2.2459cm^3
+weight: 6.0639g
+磁编码器PCB
+******************************
+第 85 個零件:
+94145
+units: kg, mm
+surface area: 1.7185cm^2
+volume: 0.0944cm^3
+weight: 0.255g
+M3X6 内六角圆头螺丝
+******************************
+第 86 個零件:
+105406
+units: kg, mm
+surface area: 1.7185cm^2
+volume: 0.0944cm^3
+weight: 0.255g
+M3X6 内六角圆头螺丝
+******************************
+第 87 個零件:
+94149
+units: kg, mm
+surface area: 1.7185cm^2
+volume: 0.0944cm^3
+weight: 0.255g
+M3X6 内六角圆头螺丝
+******************************
+第 88 個零件:
+87152
+units: kg, mm
+surface area: 25.3213cm^2
+volume: 2.7347cm^3
+weight: 7.3836g
+L型连接件（一体化）
+******************************
+第 89 個零件:
+107057
+units: kg, mm
+surface area: 0.5717cm^2
+volume: 0.0192cm^3
+weight: 0.0518g
+M2X4螺丝
+******************************
+第 90 個零件:
+86313
+units: kg, mm
+surface area: 1.2386cm^2
+volume: 0.0596cm^3
+weight: 0.1608g
+M3X5 圆头黑色十字螺丝
+******************************
+第 91 個零件:
+86291
+units: kg, mm
+surface area: 1.9912cm^2
+volume: 0.1289cm^3
+weight: 0.348g
+M4X7 平头螺丝
+******************************
+第 92 個零件:
+85496
+units: kg, mm
+surface area: 2.3732cm^2
+volume: 0.1264cm^3
+weight: 0.3412g
+MF84
+******************************
+第 93 個零件:
+87164
+units: kg, mm
+surface area: 33.5146cm^2
+volume: 2.6984cm^3
+weight: 7.2858g
+左侧连杆
+******************************
+第 94 個零件:
+64729
+units: kg, mm
+surface area: 5.9931cm^2
+volume: 0.4433cm^3
+weight: 1.1969g
+三角形连杆轴承压紧件
+******************************
+第 95 個零件:
+86325
+units: kg, mm
+surface area: 1.2386cm^2
+volume: 0.0596cm^3
+weight: 0.1608g
+M3X5 圆头黑色十字螺丝
+******************************
+第 96 個零件:
+85484
+units: kg, mm
+surface area: 2.3732cm^2
+volume: 0.1264cm^3
+weight: 0.3412g
+MF84
+******************************
+第 97 個零件:
+86317
+units: kg, mm
+surface area: 1.2386cm^2
+volume: 0.0596cm^3
+weight: 0.1608g
+M3X5 圆头黑色十字螺丝
+******************************
+第 98 個零件:
+87126
+units: kg, mm
+surface area: 186.6878cm^2
+volume: 17.9521cm^3
+weight: 48.4706g
+主臂关节2
+******************************
+第 99 個零件:
+64747
+units: kg, mm
+surface area: 1.4736cm^2
+volume: 0.0543cm^3
+weight: 0.1465g
+M3X5 扁平头铁镀镍螺丝
+******************************
+第 100 個零件:
+85462
+units: kg, mm
+surface area: 1.8315cm^2
+volume: 0.0985cm^3
+weight: 0.2659g
+4mm铝支撑柱
+******************************
+第 101 個零件:
+87150
+units: kg, mm
+surface area: 25.3213cm^2
+volume: 2.7347cm^3
+weight: 7.3836g
+L型连接件（一体化）
+******************************
+第 102 個零件:
+107061
+units: kg, mm
+surface area: 0.5717cm^2
+volume: 0.0192cm^3
+weight: 0.0518g
+M2X4螺丝
+******************************
+第 103 個零件:
+85460
+units: kg, mm
+surface area: 1.8315cm^2
+volume: 0.0985cm^3
+weight: 0.2659g
+4mm铝支撑柱
+******************************
+第 104 個零件:
+86297
+units: kg, mm
+surface area: 1.9912cm^2
+volume: 0.1289cm^3
+weight: 0.348g
+M4X7 平头螺丝
+******************************
+第 105 個零件:
+85500
+units: kg, mm
+surface area: 2.3732cm^2
+volume: 0.1264cm^3
+weight: 0.3412g
+MF84
+******************************
+第 106 個零件:
+74244
+units: kg, mm
+surface area: 0.8968cm^2
+volume: 0.0274cm^3
+weight: 0.0741g
+M4X5 顶丝
+******************************
+第 107 個零件:
+87138
+units: kg, mm
+surface area: 47.129cm^2
+volume: 4.0073cm^3
+weight: 10.8198g
+前端关节
+******************************
+第 108 個零件:
+87156
+units: kg, mm
+surface area: 46.535cm^2
+volume: 8.1484cm^3
+weight: 22.0008g
+47X30X9 轴承
+******************************
+第 109 個零件:
+107071
+units: kg, mm
+surface area: 0.8968cm^2
+volume: 0.0274cm^3
+weight: 0.0741g
+M4X5 顶丝
+******************************
+第 110 個零件:
+86287
+units: kg, mm
+surface area: 1.9912cm^2
+volume: 0.1289cm^3
+weight: 0.348g
+M4X7 平头螺丝
+******************************
+第 111 個零件:
+85454
+units: kg, mm
+surface area: 1.5614cm^2
+volume: 0.0833cm^3
+weight: 0.225g
+M4X6 沉头螺丝
+******************************
+第 112 個零件:
+85486
+units: kg, mm
+surface area: 2.3732cm^2
+volume: 0.1264cm^3
+weight: 0.3412g
+MF84
+******************************
+第 113 個零件:
+64717
+units: kg, mm
+surface area: 23.5371cm^2
+volume: 2.468cm^3
+weight: 6.6637g
+电机轴承支撑座（右侧）
+******************************
+第 114 個零件:
+85494
+units: kg, mm
+surface area: 2.3732cm^2
+volume: 0.1264cm^3
+weight: 0.3412g
+MF84
+******************************
+第 115 個零件:
+86307
+units: kg, mm
+surface area: 1.2386cm^2
+volume: 0.0596cm^3
+weight: 0.1608g
+M3X5 圆头黑色十字螺丝
+******************************
+第 116 個零件:
+64761
+units: kg, mm
+surface area: 1.9912cm^2
+volume: 0.1289cm^3
+weight: 0.348g
+M4X7 平头螺丝
+******************************
+第 117 個零件:
+87134
+units: kg, mm
+surface area: 203.6007cm^2
+volume: 19.656cm^3
+weight: 53.0712g
+主臂关节1
+******************************
+第 118 個零件:
+85502
+units: kg, mm
+surface area: 2.3732cm^2
+volume: 0.1264cm^3
+weight: 0.3412g
+MF84
+******************************
+第 119 個零件:
+64739
+units: kg, mm
+surface area: 3.0665cm^2
+volume: 0.2349cm^3
+weight: 0.6342g
+M4X15 平头螺丝
+******************************
+第 120 個零件:
+86295
+units: kg, mm
+surface area: 1.9912cm^2
+volume: 0.1289cm^3
+weight: 0.348g
+M4X7 平头螺丝
+******************************
+第 121 個零件:
+85452
+units: kg, mm
+surface area: 1.5614cm^2
+volume: 0.0833cm^3
+weight: 0.225g
+M4X6 沉头螺丝
+******************************
+第 122 個零件:
+86315
+units: kg, mm
+surface area: 1.2386cm^2
+volume: 0.0596cm^3
+weight: 0.1608g
+M3X5 圆头黑色十字螺丝
+******************************
+第 123 個零件:
+85450
+units: kg, mm
+surface area: 1.5614cm^2
+volume: 0.0833cm^3
+weight: 0.225g
+M4X6 沉头螺丝
+******************************
+第 124 個零件:
+107037
+units: kg, mm
+surface area: 1.7837cm^2
+volume: 0.1049cm^3
+weight: 0.2833g
+M3X5 内六角圆头螺丝
+******************************
+第 125 個零件:
+87142
+units: kg, mm
+surface area: 28.8857cm^2
+volume: 4.1449cm^3
+weight: 11.1914g
+铰链
+******************************
+第 126 個零件:
+64721
+units: kg, mm
+surface area: 25.0492cm^2
+volume: 2.9648cm^3
+weight: 8.0049g
+电机轴承支撑座（左侧）
+******************************
+第 127 個零件:
+86299
+units: kg, mm
+surface area: 1.9912cm^2
+volume: 0.1289cm^3
+weight: 0.348g
+M4X7 平头螺丝
+******************************
+第 128 個零件:
+86311
+units: kg, mm
+surface area: 1.2386cm^2
+volume: 0.0596cm^3
+weight: 0.1608g
+M3X5 圆头黑色十字螺丝
+******************************
+第 129 個零件:
+85448
+units: kg, mm
+surface area: 1.5614cm^2
+volume: 0.0833cm^3
+weight: 0.225g
+M4X6 沉头螺丝
+******************************
+第 130 個零件:
+86323
+units: kg, mm
+surface area: 1.2386cm^2
+volume: 0.0596cm^3
+weight: 0.1608g
+M3X5 圆头黑色十字螺丝
+******************************
+第 131 個零件:
+64755
+units: kg, mm
+surface area: 1.9912cm^2
+volume: 0.1289cm^3
+weight: 0.348g
+M4X7 平头螺丝
+******************************
+第 132 個零件:
+64725
+units: kg, mm
+surface area: 32.5607cm^2
+volume: 2.6054cm^3
+weight: 7.0347g
+右侧连杆
+******************************
+第 133 個零件:
+74256
+units: kg, mm
+surface area: 0.8968cm^2
+volume: 0.0274cm^3
+weight: 0.0741g
+M4X5 顶丝
+******************************
+第 134 個零件:
+87130
+units: kg, mm
+surface area: 116.0625cm^2
+volume: 26.4157cm^3
+weight: 71.3225g
+轴承支撑轴
+******************************
+第 135 個零件:
+85488
+units: kg, mm
+surface area: 2.3732cm^2
+volume: 0.1264cm^3
+weight: 0.3412g
+MF84
+******************************
+第 136 個零件:
+86293
+units: kg, mm
+surface area: 1.9912cm^2
+volume: 0.1289cm^3
+weight: 0.348g
+M4X7 平头螺丝
+******************************
+第 137 個零件:
+85470
+units: kg, mm
+surface area: 1.6831cm^2
+volume: 0.0969cm^3
+weight: 0.2616g
+M3X4 内六角圆头螺丝
+******************************
+第 138 個零件:
+74246
+units: kg, mm
+surface area: 0.8968cm^2
+volume: 0.0274cm^3
+weight: 0.0741g
+M4X5 顶丝
+******************************
+第 139 個零件:
+86289
+units: kg, mm
+surface area: 1.9912cm^2
+volume: 0.1289cm^3
+weight: 0.348g
+M4X7 平头螺丝
+******************************
+第 140 個零件:
+86327
+units: kg, mm
+surface area: 1.2386cm^2
+volume: 0.0596cm^3
+weight: 0.1608g
+M3X5 圆头黑色十字螺丝
+******************************
+第 141 個零件:
+64745
+units: kg, mm
+surface area: 1.4736cm^2
+volume: 0.0543cm^3
+weight: 0.1465g
+M3X5 扁平头铁镀镍螺丝
+******************************
+第 142 個零件:
+85446
+units: kg, mm
+surface area: 1.5614cm^2
+volume: 0.0833cm^3
+weight: 0.225g
+M4X6 沉头螺丝
+******************************
+第 143 個零件:
+107033
+units: kg, mm
+surface area: 5.6941cm^2
+volume: 0.0981cm^3
+weight: 0.2649g
+主臂关节2贴纸（Pro）
+******************************
+第 144 個零件:
+107045
+units: kg, mm
+surface area: 0.5717cm^2
+volume: 0.0192cm^3
+weight: 0.0518g
+M2X4螺丝
+******************************
+第 145 個零件:
+85466
+units: kg, mm
+surface area: 2.9374cm^2
+volume: 0.1814cm^3
+weight: 0.4899g
+7mm 支撑柱
+******************************
+第 146 個零件:
+87160
+units: kg, mm
+surface area: 22.8934cm^2
+volume: 2.8149cm^3
+weight: 7.6001g
+右侧曲柄
+******************************
+第 147 個零件:
+107041
+units: kg, mm
+surface area: 0.5717cm^2
+volume: 0.0192cm^3
+weight: 0.0518g
+M2X4螺丝
+******************************
+第 148 個零件:
+64713
+units: kg, mm
+surface area: 26.5769cm^2
+volume: 2.0495cm^3
+weight: 5.5336g
+三角形连杆
+******************************
+第 149 個零件:
+74250
+units: kg, mm
+surface area: 0.8968cm^2
+volume: 0.0274cm^3
+weight: 0.0741g
+M4X5 顶丝
+******************************
+第 150 個零件:
+86335
+units: kg, mm
+surface area: 1.5614cm^2
+volume: 0.0833cm^3
+weight: 0.225g
+M4X6 沉头螺丝
+******************************
+第 151 個零件:
+64759
+units: kg, mm
+surface area: 1.9912cm^2
+volume: 0.1289cm^3
+weight: 0.348g
+M4X7 平头螺丝
+******************************
+第 152 個零件:
+86319
+units: kg, mm
+surface area: 1.2386cm^2
+volume: 0.0596cm^3
+weight: 0.1608g
+M3X5 圆头黑色十字螺丝
+******************************
+第 153 個零件:
+85498
+units: kg, mm
+surface area: 2.3732cm^2
+volume: 0.1264cm^3
+weight: 0.3412g
+MF84
+******************************
+第 154 個零件:
+86333
+units: kg, mm
+surface area: 1.5614cm^2
+volume: 0.0833cm^3
+weight: 0.225g
+M4X6 沉头螺丝
+******************************
+第 155 個零件:
+86309
+units: kg, mm
+surface area: 1.2386cm^2
+volume: 0.0596cm^3
+weight: 0.1608g
+M3X5 圆头黑色十字螺丝
+************************************************************
+總共引用 155 個子零件.
+其中個別零件總數為58
+30% 零件採 Steel 製, 其餘採 Aluminum 製, 總重量約 2.2205kg
+全部零件採 Aluminum 製, 總重量約 1.4123kg
+全部零件採 Steel 製, 總重量約 4.1062kg
+************************************************************
