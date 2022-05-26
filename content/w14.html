@@ -141,10 +141,11 @@ img.add_border {
         </header>
     <div id="tipue_search_content">w13 << <a href='w13.html'>Previous</a> <a href='midterm.html'>Next</a> >> midterm<br /><h1>w14</h1>
 <p><span>以鍵盤控制 MTB_nx robot</span></p>
-<p><span>R：逆時針轉</span></p>
-<p><span>L：順時針轉</span></p>
-<p><span>D：吸盤上升</span></p>
-<p><span>U：吸盤下降</span></p>
+<p><span>R：逆時針轉     </span><span>L：順時針轉</span></p>
+<p><span>D：吸盤上升     </span><span>U：吸盤下降</span></p>
+<p>P：激活吸盤     Q：停用吸盤</p>
+<p>C：吸盤座標</p>
+<p>-------------------------</p>
 <script>
 var winkVideoData = {
   dataVersion: 1,
@@ -158,10 +159,26 @@ var winkVideoData = {
 <div class="winkVideoContainerClass"><video autoplay="autoplay" class="winkVideoClass" controls="controls" data-dirname="./../cmsimde/static" data-varname="winkVideoData" height="756" muted="true" width="1344">
 <source src="./../downloads/w14操作.mp4" type="video/mp4"/></video></div>
 <div class="winkVideoContainerClass"></div>
+<p></p>
+<script>
+var winkVideoData2 = {
+  dataVersion: 1,
+  frameRate: 10,
+  buttonFrameLength: 5,
+  buttonFrameOffset: 2,
+  frameStops: {
+  },
+};
+</script>
+<div class="winkVideoContainerClass"><video autoplay="autoplay" class="winkVideoClass" controls="controls" data-dirname="./../cmsimde/static" data-varname="winkVideoData2" height="756" muted="true" width="1344">
+<source src="./../downloads/w14_操作0.mp4" type="video/mp4"/></video></div>
+<div class="winkVideoContainerClass"></div>
+<p></p>
 <hr/>
 <p>自己運轉</p>
 <p><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="530" src="https://www.youtube.com/embed/C4rsx91kBAU" title="YouTube video player" width="1026"></iframe></p>
 <p></p>
+<p>-------------------------------------</p>
 <pre class="brush:html;auto-links:false;toolbar:false" contenteditable="false">function sysCall_init() 
     axis1=sim.getObject('/joint1')
     axis2=sim.getObject('/joint2')
