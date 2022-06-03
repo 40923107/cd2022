@@ -34,8 +34,9 @@ set VREP_PATH=D:\CoppeliaSimEdu_4.3.0_rev3</pre>
 <p></p>
 <h1>w14</h1>
 <p><span>以鍵盤控制 MTB_nx robot</span></p>
+<p><span>檔案：<a href="https://gmnfuedutw-my.sharepoint.com/:f:/g/personal/40923107_gm_nfu_edu_tw/EtBy79dLQMtHpZknXQntpGYBrCEja5flMsL4YSkITm8g8Q">40923107_MTB robot pick and place</a></span></p>
 <p><span>R：逆時針轉     </span><span>L：順時針轉</span></p>
-<p><span>D：吸盤上升     </span><span>U：吸盤下降</span></p>
+<p><span>D：吸盤下降     </span><span>U：吸盤上升</span></p>
 <p>P：激活吸盤     Q：停用吸盤</p>
 <p>C：吸盤座標</p>
 <p>-------------------------</p>
@@ -243,13 +244,27 @@ function insertBox()
     end
 end
 </pre>
+<p></p><h1>uarm</h1>
+<p>另外我有負責 NX12 繪製零件的組合及零件改良</p>
+<script>
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 10,
+  buttonFrameLength: 5,
+  buttonFrameOffset: 2,
+  frameStops: {
+  },
+};
+</script>
+<div class="winkVideoContainerClass"><video autoplay="autoplay" class="winkVideoClass" controls="controls" data-dirname="./../cmsimde/static" data-varname="winkVideoData" height="630" muted="true" width="1008">
+<source src="./../downloads/uarm_NX12.mp4" type="video/mp4"/></video></div>
+<div class="winkVideoContainerClass"></div>
 <p></p>
-<h1>w15</h1>
-<p><a href="https://gmnfuedutw-my.sharepoint.com/:f:/g/personal/40923107_gm_nfu_edu_tw/EiO_LHKFcZ5JqlNihkepTjcBHBNCJW5gdSyrKwEvjtbVFA">40923107_uarm_模擬</a></p>
+<hr/>
+<p>CoppeliaSIM模擬檔案：<a href="https://gmnfuedutw-my.sharepoint.com/:f:/g/personal/40923107_gm_nfu_edu_tw/EiO_LHKFcZ5JqlNihkepTjcBHBNCJW5gdSyrKwEvjtbVFA">40923107_uarm_模擬</a></p>
 <p><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="530" src="https://www.youtube.com/embed/qrovlXxJ-Ho" title="YouTube video player" width="998"></iframe></p>
 <p></p>
-<p></p>
-<h1>midterm</h1>
+<p></p><h1>midterm</h1>
 <p>W7任務：</p>
 <p>1.利用隨身程式系統編譯 SCARA robot 模擬系統.</p>
 <p>2.繪製 Pick and Place demo 範例所需的零組件，自訂連桿尺寸，並完成 Coppeliasim 4.1.0、4.2.0 與 4.3.0 版的 MTB 機械手臂 Pick and Place 模擬。</p>
@@ -577,18 +592,17 @@ var winkVideoData2 = {
 <p>工作分配</p>
 <p>NX1980：40923102<br/>Solvespace：40923104<br/>Onshape：40923106<br/>NX2008：40923107<br/>NX12：40923110</p>
 <hr/>
-<p><span>NX2008</span></p>
-<p><a href="https://gmnfuedutw-my.sharepoint.com/:f:/g/personal/40923107_gm_nfu_edu_tw/EgzC_A1mH_JOgXuAFmy4N0wBKu-mTV_WJ9qNx2ycYvHvog?e=BRXaem">Pick and Place demo 零組件</a></p>
-<p><span></span></p>
-<h2>W8 uarm</h2>
+<p><span>NX12 圖檔、取放模擬：<a href="https://gmnfuedutw-my.sharepoint.com/:f:/g/personal/40923107_gm_nfu_edu_tw/EtBy79dLQMtHpZknXQntpGYBrCEja5flMsL4YSkITm8g8Q">40923107_NX12_MTB robot pick and place</a></span></p>
+<p><span>NX2008 圖檔：<a href="https://gmnfuedutw-my.sharepoint.com/:f:/g/personal/40923107_gm_nfu_edu_tw/EgzC_A1mH_JOgXuAFmy4N0wBpKC6Daws_NA9BGN6ak5gvg?e=Yh2EmM">40923107_NX2008_MTB 零組件</a></span></p>
+<p><span></span></p><h2>W8 uarm</h2>
 <p><span></span>工作分配<br/>Onshape：40923104、40932106 <br/>NX1980：40923102、40923110 <br/>Solvespace：40923105、40923107</p>
 <p></p>
-<p><span>以 Solvespace 完成各零件</span><span>工程圖</span><span>與</span><span>組合圖</span><span>後, 將 uarm 組合件轉為 </span><span>STL 格式後轉入 CoppeliaSim</span></p>
+<p><span>我被分配到以 Solvespace 畫各個零件</span><span>工程圖</span><span>與</span><span>組合圖</span></p>
 <hr/>
 <p><a href="https://gmnfuedutw-my.sharepoint.com/:f:/g/personal/40923107_gm_nfu_edu_tw/EoAdE0BiCQVHkMi3pSg6k8MBY-BT7tpuY36OrVTMmqRFAw?e=YM2DaL">uarm_Solvespace 零件檔</a></p>
 <p><a href="https://gmnfuedutw-my.sharepoint.com/:f:/g/personal/40923107_gm_nfu_edu_tw/EnfL0WHo62xPvXhrB-FUPDQBVK7byp9bwjcJjl8N_s0GDg?e=oRsYeN">uarm_工程圖</a></p>
 <p></p>
-<p>CoppeliaSIM 三軸模擬</p>
+<p>CoppeliaSIM 三軸模擬練習</p>
 <p>檔案：<a href="https://gmnfuedutw-my.sharepoint.com/:f:/g/personal/40923107_gm_nfu_edu_tw/EiO_LHKFcZ5JqlNihkepTjcBHBNCJW5gdSyrKwEvjtbVFA">40923107_uarm_模擬</a></p>
 <p><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="530" src="https://www.youtube.com/embed/qrovlXxJ-Ho" title="YouTube video player" width="998"></iframe></p>
 <p></p>
@@ -599,8 +613,7 @@ var winkVideoData2 = {
 <p>Solvespace-Property Browser 對話框<br/>active：歷程</p>
 <p>extrude plane sketch<br/>one-sided：單向長料<br/>two-sided：雙向長料</p>
 <p>solid model as<br/>union：聯集(長料，不可與零件本體重疊)<br/>difference：差異(除料)<br/>assemble：組合(長料，可與零件本體重疊)<br/>intersection：反向除料</p>
-<p><span></span></p>
-<h2>W9</h2>
+<p><span></span></p><h2>W9</h2>
 <p>自評成績</p>
 <h2>W10</h2>
 <h3>W10_block_ui</h3>
