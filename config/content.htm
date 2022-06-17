@@ -265,14 +265,71 @@ var winkVideoData = {
 <div class="winkVideoContainerClass"></div>
 <hr/>
 <p>將以上運用在 uarm 取放模擬 </p>
+<table border="1" style="border-color: #000000; width: 575px;"><caption></caption>
+<tbody>
+<tr style="height: 25px;">
+<td colspan="2" style="width: 151px; height: 25px;">
+<p><span>joint1</span></p>
+</td>
+<td colspan="2" style="width: 169px; height: 25px;">
+<p><span>joint2</span></p>
+</td>
+<td colspan="2" style="width: 205px; height: 25px;">
+<p><span>joint3</span></p>
+</td>
+</tr>
+<tr style="height: 18.0834px;">
+<td style="width: 44px; height: 18.0834px;">
+<p><span>K</span></p>
+</td>
+<td style="width: 107px; height: 18.0834px;">
+<p>逆時針<span>2</span>°</p>
+</td>
+<td style="width: 44px; height: 18.0834px;">
+<p><span>H</span></p>
+</td>
+<td style="width: 125px; height: 18.0834px;">
+<p>逆時針<span>1</span>° (向上)</p>
+</td>
+<td style="width: 46.3889px; height: 18.0834px;">
+<p><span>F</span></p>
+</td>
+<td style="width: 158.611px; height: 18.0834px;">
+<p>逆時針<span>1</span>° <span>(使吸盤向下)</span></p>
+</td>
+</tr>
+<tr style="height: 38px;">
+<td style="width: 44px; height: 38px;">
+<p><span>L</span></p>
+</td>
+<td style="width: 107px; height: 38px;">
+<p>順時針<span>2</span>°</p>
+</td>
+<td style="width: 44px; height: 38px;">
+<p><span>J</span></p>
+</td>
+<td style="width: 125px; height: 38px;">
+<p>順時針<span>1</span>° <span>(向下)</span></p>
+</td>
+<td style="width: 46.3889px; height: 38px;">
+<p><span>G</span></p>
+</td>
+<td style="width: 158.611px; height: 38px;">
+<p>順時針<span>1</span>° (使吸盤向上)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><span> </span></p>
 <p>檔案下載：<a href="https://gmnfuedutw-my.sharepoint.com/:f:/g/personal/40923107_gm_nfu_edu_tw/EkrIi4sWJElJquhEIiJcALEBnMWrULTRXEOB752F1jKKlw?e=J0NT9V">40923107_uarm_pick and place</a></p>
 <p></p>
 <p><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="621" src="https://www.youtube.com/embed/_t4u6zNeOUU" title="40923107_uarm_pick and place_coppeliaSim" width="1155"></iframe></p>
-<hr/>
 <p></p>
+<p></p>
+<hr/>
 <p>uarm 一次定位到方塊並進行取放</p>
 <p>檔案下載：<a href="https://gmnfuedutw-my.sharepoint.com/:u:/g/personal/40923107_gm_nfu_edu_tw/EdUv_pqnmj9CiY2-x7gwmH0BXF7rlUWiziKvZ_lqsYLjZw?e=0DE56K">40923107_xyz控制_uarm_pick and place.ttt</a></p>
-<p><br/>按z：一次吸到方塊<br/>按x：z吸完並放下後，在按x可吸取<br/>按y：回原高度(x+z的移動高度)</p>
+<p><br/>按 z：一次吸到方塊<br/>按 x：上一步吸完並放下後，按 x 可再次吸取<br/>按 y：回原高度 ( x+z 的移動高度)</p>
 <p></p>
 <p><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="621" src="https://www.youtube.com/embed/ckWWLTpNZ18" title="40923107_uarm_pick_xyz按鍵(請開啟字幕)" width="1158"></iframe></p>
 <p>新增之程式碼</p>
@@ -331,56 +388,56 @@ var winkVideoData = {
 <p>已知左側綠色底座的<span> uArm </span>機械手臂<span>, </span>其基座座標原點位於絕對座標<span> (1.0, 0.25, 0), </span>啟動模擬後<span> green_suctionpad_frame </span>座標原點則位於<span> (0.22859, 0.26047, 0.36576), </span>請列出運算式說明<span>, </span>啟動模擬後<span> joint1, joint2 </span>與<span> joint3 </span>分別以逆時針旋轉<span> 5 </span>度後<span>, </span>求<span> green_suctionpad_frame </span>的絕對座標值<span>.</span></p>
 <p><span> </span></p>
 <p>鍵盤指令</p>
-<table style="border-color: #000000;"><caption></caption>
+<table border="1" style="border-color: #000000; width: 563px;"><caption></caption>
 <tbody>
-<tr>
-<td colspan="2" style="width: 180.167px;">
+<tr style="height: 37px;">
+<td colspan="2" style="width: 173.5px; height: 37px;">
 <p><span>joint1</span></p>
 </td>
-<td colspan="2" style="width: 181.111px;">
+<td colspan="2" style="width: 173.5px; height: 37px;">
 <p><span>joint2</span></p>
 </td>
-<td colspan="2" style="width: 181.167px;">
+<td colspan="2" style="width: 174px; height: 37px;">
 <p><span>joint3</span></p>
 </td>
 </tr>
-<tr>
-<td style="width: 44.6806px;">
+<tr style="height: 27.7639px;">
+<td style="width: 44px; height: 27.7639px;">
 <p><span>K</span></p>
 </td>
-<td style="width: 129.708px;">
+<td style="width: 129.5px; height: 27.7639px;">
 <p>逆時針<span>2</span>°</p>
 </td>
-<td style="width: 49.4306px;">
+<td style="width: 48.5px; height: 27.7639px;">
 <p><span>H</span></p>
 </td>
-<td style="width: 125.903px;">
+<td style="width: 125px; height: 27.7639px;">
 <p>逆時針<span>1</span>°</p>
 </td>
-<td style="width: 44.6944px;">
+<td style="width: 44px; height: 27.7639px;">
 <p><span>F</span></p>
 </td>
-<td style="width: 130.694px;">
+<td style="width: 130px; height: 27.7639px;">
 <p>逆時針<span>1</span>°</p>
 </td>
 </tr>
-<tr>
-<td style="width: 44.6806px;">
+<tr style="height: 38px;">
+<td style="width: 44px; height: 38px;">
 <p><span>L</span></p>
 </td>
-<td style="width: 129.708px;">
+<td style="width: 129.5px; height: 38px;">
 <p>順時針<span>2</span>°</p>
 </td>
-<td style="width: 49.4306px;">
+<td style="width: 48.5px; height: 38px;">
 <p><span>J</span></p>
 </td>
-<td style="width: 125.903px;">
+<td style="width: 125px; height: 38px;">
 <p>順時針<span>1</span>°</p>
 </td>
-<td style="width: 44.6944px;">
+<td style="width: 44px; height: 38px;">
 <p><span>G</span></p>
 </td>
-<td style="width: 130.694px;">
+<td style="width: 130px; height: 38px;">
 <p>順時針<span>1</span>°</p>
 </td>
 </tr>
@@ -399,8 +456,7 @@ var winkVideoData = {
 <p><span>(0.2601,0.2602,0.3470)</span></p>
 <p><span><img alt="" height="173" src="/images/轉5度後_吸盤座標_放大.png" width="800"/></span></p>
 <p><span> <img alt="" height="450" src="/images/轉五度後_座標.png" width="800"/></span></p>
-<p><span> </span></p>
-<h1>w17</h1>
+<p><span> </span></p><h1>w17</h1>
 <p></p>
 <h1>uarm</h1>
 <p><a href="https://drive.google.com/drive/folders/1X03fJgd8utmThPyCZ-ExgXPFgtHjj4yg?usp=sharing">零組件</a></p>
