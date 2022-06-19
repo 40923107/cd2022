@@ -140,7 +140,7 @@ img.add_border {
           
         </header>
     <div id="tipue_search_content">w10_ssh << <a href='w10_ssh.html'>Previous</a> <a href='W12.html'>Next</a> >> W12<br /><h1>W11</h1>
-<p>解決<span>透過 SSH 協定時，</span>合併衝突的問題</p>
+<p>解決<span>透過 SSH 協定時，</span>合併衝突的問題，以在本週小組會議解決。</p>
 <p></p>
 <p>
 <script>
@@ -166,8 +166,67 @@ var winkVideoData4 = {
 </div>
 <div class="winkVideoPlayOverlayClass"></div>
 </div>
-<p>-----------------------------------------------------------</p>
-<br />w10_ssh << <a href='w10_ssh.html'>Previous</a> <a href='W12.html'>Next</a> >> W12</div>
+<hr/>
+<p><strong>w11-1 任務</strong></p>
+<p><span>兩人一小組，</span>在大組的同一網頁 (標題為 w11s1 ~w11s4) 加入個人 w8-w10 協同設計過程所負責的項目內容與心得。</p>
+<p><a href="https://40923105.github.io/cd2022ag2/content/w11s1.html">w11s1</a></p>
+<p>40923107 心得：</p>
+<p>第八週開始畫 uarm 零件及組合圖， 我被分配到 Solvespace 的繪圖軟體，之前因為沒使用過這款軟體，所以剛開始畫得很卡，現在有比較熟悉，已經了解<span>在繪製任何草圖前，要先 sketch in new work plane </span><span>選擇座標平面，或定義三軸座標的零件任意處(可點一個面、2或3條軸)，以及長料方式。但在組合的部分還不熟悉。另外已會用SSH 協定，和組長帳號的分組倉儲內容協同，並解決產生的衝突，且會經常使用 git pull 處理內容衝突與合併。</span></p>
+<p><span></span></p>
+<hr/>
+<p><strong>w11-2 任務</strong></p>
+<p><strong>1.STL 檔案資料結構</strong></p>
+<p><span>原始非結構化</span><strong><span class="ilh-all ilh-blue" data-foreign-title="Triangulation (geometry)" data-lang-code="en" data-lang-name="英語" data-orig-title="三角網格"><span class="ilh-page">三角網格</span></span></strong><span>由表面</span>單位法線<span>和由</span>右手定則<span>排序的</span>頂點<span>用三維三角形</span><strong>笛卡兒座標系</strong><span>。STL座標必須是正數</span><span>，沒有尺度資訊，計量單位</span><span>為任意。</span></p>
+<p><span><b>三角網格：</b><span>是數字建模處理的一個重要的概念。</span><span>一個3D建模由多個2D三角形以不同角度(邊對邊)組合的3D模型，而外圍的每個三角形都可稱為三角網格。</span></span></p>
+<p>-------------------------------<span>-------------------------------</span></p>
+<p><strong>2.<span>為什麼 STL 格式的零件檔案需要分 ASCII 與 Binary 格式?</span></strong></p>
+<p>STL 的輸出形式可分為 <span style="background-color: #ffff99;"><strong>ASCII</strong></span> 與 <span style="background-color: #ffff99;"><strong>Binary </strong></span>兩種，ASCII 的 STL 檔只是為了 讓使用者可以看出其格式並且進一步編輯，但所佔空間較大，Binary 的 形式是較為合理的選擇。</p>
+<p><span style="background-color: #ffff99;"><strong>ASCII</strong></span></p>
+<p>ASCII有7位元編碼、8位元編碼兩種形式：</p>
+<div><strong>7位元組編碼</strong></div>
+<p><span>2的7次方，可表達128個字元。最左邊(MSB)該位元並沒有用到。</span></p>
+<p><img alt="undefined" caption="false" height="304" loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3dbOON50_KWCfzzXCk_QeUZeDZVc-zThkoEvwIhMZZrMV_Sc-f8bw1O2UoTvp7ri9L5_nXiPtcUUOkXnMp3ThT9BOEjtQmThyrCmhtX_THBueFQhFLwYZQH2DBR3JLgLFRXAhx5Gp0BO_EnhZoo94cnCA=w299-h454-no?authuser=0" title="undefined" width="200"/></p>
+<ul>
+<li>控制字元|通訊字元：第0~32，127號(共34個)
+<ul>
+<li>控制符：LF（換行）、CR（回車）、FF（換頁）、DEL（刪除）、BEL（振鈴）…。</li>
+<li>通訊專用字元：SOH（文頭）、EOT（文尾）、ACK（確認）…。</li>
+</ul>
+</li>
+<li>阿拉伯數字：第48~57號</li>
+<li>大寫英文：第65～90號</li>
+<li>小寫英文：第97~122號</li>
+<li>標點|運算符號：其它</li>
+</ul>
+<p></p>
+<div><strong>8位元組編碼</strong></div>
+<p><span>現代的電腦，對於系統內部的資料表達或處理，絕大多數都已經是以八個位元為一個位元組。當ASCII做為內碼使用時，習慣上都會在最大位元的左邊加上一個設定為“0”的位元，因而由七位元交換碼變成八位元內碼。</span></p>
+<p><span>而這種做法也就代表著八位元內碼的256個碼位當中，會有一半的編碼空間(128個碼位）閒置不用。因此廠商為了在PC或某些終端機上（例如：VT220）提供ASCII所無的一些字元（例如：非英文的字母、數學符號、畫表格用的邊、角、線段等），特別將b8=1的128個 碼位另外賦予字元，稱為延伸ASCII。</span></p>
+<ul></ul>
+<p><span>使用ASCII格式，便是</span><span>上面所提到的字元集裏的字元所組成的（包含字元、空白、標點符號、跳行，有時也包含標籤和檔案結束記號），而且沒有任何格式化資訊的文件。一般也稱為ASCII file、text file、text-only file、文字檔……。</span></p>
+<p> </p>
+<p><span style="background-color: #ffff99;"><strong>Binary</strong></span></p>
+<ul></ul>
+<p><span>中文：二進位檔案</span></p>
+<p><span>英語：Binary file</span></p>
+<ul>
+<li><span>廣義的二進位檔案即為檔案，由檔案在外部儲存裝置的存放方式為二進位而得名。</span></li>
+<li><span>狹義的二進位檔案即指除文字檔案以外的檔案。</span></li>
+</ul>
+<p><span>也就是說所有的檔案都是Binary。但如果用狹義的定位，是除了「ASCII」之外的所有檔案。</span></p>
+<p><span>--------------------------------------------------------------</span></p>
+<p><strong>3.Python 程式如何讀取 Binary 格式的 STL 零件檔案?</strong></p>
+<p>Python 讀取 binary 檔的方法：</p>
+<ul>
+<li>Python 讀取二進制檔的基本用法</li>
+<li>Python 使用<span> </span><code>struct.unpack()</code><span> </span>讀取二進制檔的 str 字串</li>
+<li>Python 使用<span> </span><code>struct.unpack()</code><span> </span>讀取二進制檔的 int 整數</li>
+<li>Python 使用<span> </span><code>struct.unpack()</code><span> </span>讀取二進制檔的多種資料</li>
+</ul>
+<p><span></span></p>
+<div class="alert-message alert-message-warning hidden-print">
+<p><span color="#000000" style="color: #000000;"><span><strong></strong></span></span></p>
+</div><br />w10_ssh << <a href='w10_ssh.html'>Previous</a> <a href='W12.html'>Next</a> >> W12</div>
         
     <!-- footer -->
       <div class="container">
