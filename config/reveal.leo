@@ -20,11 +20,7 @@
 <v t="leo.20200818170222.1"><vh>slides div</vh>
 <v t="leo.20200818170328.1"><vh>slide 1</vh></v>
 <v t="leo.20200818170535.1"><vh>slide 2</vh></v>
-<v t="leo.20200818170636.1"><vh>slide3</vh>
-<v t="leo.20200818170909.1"><vh>slide 3-1</vh></v>
-<v t="leo.20200818170953.1"><vh>slide 3-2</vh></v>
-<v t="leo.20200818171010.1"><vh>slide 3-3</vh></v>
-</v>
+<v t="leo.20200818170636.1"><vh>slide 3</vh></v>
 <v t="leo.20200818170725.1"><vh>slide 4</vh></v>
 <v t="leo.20200818171138.1"><vh>slide 5 </vh></v>
 <v t="leo.20200818171215.1"><vh>slide 6</vh></v>
@@ -214,19 +210,20 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200818170535.1">&lt;section&gt;
     &lt;h2&gt;期末心得&lt;/h2&gt;
+    &lt;h3&gt;繪圖&lt;/h3&gt;
     &lt;p&gt;
         這學期學到了很多繪圖軟體的操作，首先是NX，老師首先讓我們用 NX1980，學習教學影片並搭配實際操作，再用wink做紀錄，我了解到NX新版本與舊版本功能的不同，也學到一些基礎功能與建模。隨著之後的 MTB robot、uarm 繪圖，又陸續使用到 NX2008 及 NX12，這些作業讓我學到更多繪圖及組立技巧，也能用不同版本和其他組員配合修改圖檔。
 
 再來是Solvespace，這個繪圖軟體和其他的軟體不太一樣，像是再畫草圖前，要先選擇新工作平面上的草圖，不能隨便點零件上的一個平面畫，另外它的約束可以用再草圖或組立，組立方式也是依賴零件的點、線、面及三軸的關係。這樣畫下來覺得有點難，花比較多時間才熟悉這個軟體。
-
-另外在Coppeliasim模擬的過程中，能看懂一些程式並做一些改變。除了學會調整三軸移動角度、配合方塊座標進行三軸角度定位外，還有學到如何設計機械手臂載重量上的調配，除了基座部分重量要夠穩，手臂及尾端重量也不能過輕。
     &lt;/p&gt;
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20200818170636.1">&lt;!-- Example of nested vertical slides --&gt;
-&lt;section&gt;
-    @others
+<t tx="leo.20200818170636.1">&lt;section&gt;
+&lt;h2&gt;模擬&lt;/h2&gt;
+&lt;p&gt;
+另外在Coppeliasim模擬的過程中，能看懂一些程式並做一些改變。除了學會調整三軸移動角度、配合方塊座標進行三軸角度定位外，還有學到如何設計機械手臂載重量上的調配，除了基座部分重量要夠穩，手臂及尾端重量也不能過輕。
+&lt;/p&gt;
 &lt;/section&gt;
 
 </t>
@@ -238,29 +235,6 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20200818170909.1">&lt;section&gt;
-    &lt;h2&gt;Vertical Slides&lt;/h2&gt;
-    &lt;p&gt;Slides can be nested inside of each other.&lt;/p&gt;
-    &lt;p&gt;Use the &lt;em&gt;Space&lt;/em&gt; key to navigate through all slides.&lt;/p&gt;
-    &lt;br&gt;
-    &lt;a href="#" class="navigate-down"&gt;
-        &lt;img class="r-frame" style="background: rgba(255,255,255,0.1);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Down arrow"&gt;
-    &lt;/a&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20200818170953.1">&lt;section&gt;
-    &lt;h2&gt;Basement Level 1&lt;/h2&gt;
-    &lt;p&gt;Nested slides are useful for adding additional detail underneath a high level horizontal slide.&lt;/p&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20200818171010.1">&lt;section&gt;
-    &lt;h2&gt;Basement Level 2&lt;/h2&gt;
-    &lt;p&gt;That's it, time to go back up.&lt;/p&gt;
-    &lt;br&gt;
-    &lt;a href="#/2"&gt;
-        &lt;img class="r-frame" style="background: rgba(255,255,255,0.1); transform: rotate(180deg);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Up arrow"&gt;
-    &lt;/a&gt;
-&lt;/section&gt;</t>
 <t tx="leo.20200818171138.1">&lt;section data-auto-animate&gt;
     &lt;h2 data-id="code-title"&gt;Pretty Code&lt;/h2&gt;
     &lt;pre data-id="code-animation"&gt;&lt;code class="hljs" data-trim data-line-numbers&gt;
