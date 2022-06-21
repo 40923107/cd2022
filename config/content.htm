@@ -915,7 +915,8 @@ var winkVideoData = {
 <p>Solvespace-Property Browser 對話框<br/>active：歷程</p>
 <p>extrude plane sketch<br/>one-sided：單向長料<br/>two-sided：雙向長料</p>
 <p>solid model as<br/>union：聯集(長料，不可與零件本體重疊)<br/>difference：差異(除料)<br/>assemble：組合(長料，可與零件本體重疊)<br/>intersection：反向除料</p>
-<p><span></span></p><h2>W9</h2>
+<p><span></span></p>
+<h2>W9</h2>
 <p>自評成績</p>
 <h2>W10</h2>
 <h3>W10_block_ui</h3>
@@ -985,18 +986,17 @@ var winkVideoData4 = {
 <div class="winkVideoPlayOverlayClass"></div>
 </div>
 <hr/>
-<p><strong>w11-1 任務</strong></p>
+<p><span style="background-color: #ffcc00;"><strong>w11-1 任務</strong></span></p>
 <p><span>兩人一小組，</span>在大組的同一網頁 (標題為 w11s1 ~w11s4) 加入個人 w8-w10 協同設計過程所負責的項目內容與心得。</p>
 <p><a href="https://40923105.github.io/cd2022ag2/content/w11s1.html">w11s1</a></p>
 <p>40923107 心得：</p>
-<p>第八週開始畫 uarm 零件及組合圖， 我被分配到 Solvespace 的繪圖軟體，之前因為沒使用過這款軟體，所以剛開始畫得很卡，現在有比較熟悉，已經了解<span>在繪製任何草圖前，要先 sketch in new work plane </span><span>選擇座標平面，或定義三軸座標的零件任意處(可點一個面、2或3條軸)，以及長料方式。但在組合的部分還不熟悉。另外已會用SSH 協定，和組長帳號的分組倉儲內容協同，並解決產生的衝突，且會經常使用 git pull 處理內容衝突與合併。</span></p>
-<p><span></span></p>
+<p>第八週開始畫 uarm 零件及組合圖， 我被分配到 Solvespace 的繪圖軟體，之前因為沒使用過這款軟體，所以剛開始畫得很卡，現在有比較熟悉，已經了解<span>在繪製任何草圖前，要先 sketch in new work plane </span><span>選擇座標平面，或定義三軸座標的零件任意處(可點一個面、2或3條軸)，以及長料方式。但在組合的部分還不熟悉。另外已會用SSH 協定，和組長帳號的分組倉儲內容協同，並解決產生的衝突，且會經常使用 git pull 處理內容衝突與合併。</span><br/><br/><span></span></p>
 <hr/>
-<p><strong>w11-2 任務</strong></p>
+<p><span style="background-color: #ffcc00;"><strong>w11-2 任務</strong></span></p>
 <p><strong>1.STL 檔案資料結構</strong></p>
 <p><span>原始非結構化</span><strong><span class="ilh-all ilh-blue" data-foreign-title="Triangulation (geometry)" data-lang-code="en" data-lang-name="英語" data-orig-title="三角網格"><span class="ilh-page">三角網格</span></span></strong><span>由表面</span>單位法線<span>和由</span>右手定則<span>排序的</span>頂點<span>用三維三角形</span><strong>笛卡兒座標系</strong><span>。STL座標必須是正數</span><span>，沒有尺度資訊，計量單位</span><span>為任意。</span></p>
 <p><span><b>三角網格：</b><span>是數字建模處理的一個重要的概念。</span><span>一個3D建模由多個2D三角形以不同角度(邊對邊)組合的3D模型，而外圍的每個三角形都可稱為三角網格。</span></span></p>
-<p>-------------------------------<span>-------------------------------</span></p>
+<p>-------------------------------<span>--------------------------------</span></p>
 <p><strong>2.<span>為什麼 STL 格式的零件檔案需要分 ASCII 與 Binary 格式?</span></strong></p>
 <p>STL 的輸出形式可分為 <span style="background-color: #ffff99;"><strong>ASCII</strong></span> 與 <span style="background-color: #ffff99;"><strong>Binary </strong></span>兩種，ASCII 的 STL 檔只是為了 讓使用者可以看出其格式並且進一步編輯，但所佔空間較大，Binary 的 形式是較為合理的選擇。</p>
 <p><span style="background-color: #ffff99;"><strong>ASCII</strong></span></p>
@@ -1032,7 +1032,7 @@ var winkVideoData4 = {
 <li><span>狹義的二進位檔案即指除文字檔案以外的檔案。</span></li>
 </ul>
 <p><span>也就是說所有的檔案都是Binary。但如果用狹義的定位，是除了「ASCII」之外的所有檔案。</span></p>
-<p><span>--------------------------------------------------------------</span></p>
+<p><span>---------------------------------------------------------------------------------------------</span></p>
 <p><strong>3.Python 程式如何讀取 Binary 格式的 STL 零件檔案?</strong></p>
 <p>Python 讀取 binary 檔的方法：</p>
 <ul>
@@ -1041,11 +1041,21 @@ var winkVideoData4 = {
 <li>Python 使用<span> </span><code>struct.unpack()</code><span> </span>讀取二進制檔的 int 整數</li>
 <li>Python 使用<span> </span><code>struct.unpack()</code><span> </span>讀取二進制檔的多種資料</li>
 </ul>
-<p><span></span></p>
-<div class="alert-message alert-message-warning hidden-print">
-<p><span color="#000000" style="color: #000000;"><span><strong></strong></span></span></p>
-</div>
-<h2>W12</h2>
+<div class="alert-message alert-message-warning hidden-print"><hr/><span style="background-color: #00ff00;"><strong>XML</strong></span></div>
+<p></p>
+<script>
+var winkVideoData2 = {
+  dataVersion: 1,
+  frameRate: 10,
+  buttonFrameLength: 5,
+  buttonFrameOffset: 2,
+  frameStops: {
+  },
+};
+</script>
+<div class="winkVideoContainerClass"><video autoplay="autoplay" class="winkVideoClass" controls="controls" data-dirname="./../cmsimde/static" data-varname="winkVideoData2" height="756" muted="true" width="1344">
+<source src="./../downloads/w11_xml.mp4" type="video/mp4"/></video></div>
+<div class="winkVideoContainerClass"></div><h2>W12</h2>
 <p>任務</p>
 <p>1.cd2022_uarm_nx12_imported.7z 中, 若計入重複引用的零件, 總數有多少?請列出組成此一 uarm 機械手臂所需的 BOM 列表.</p>
 <p>A:155個 , <a href="https://github.com/40923107/cd2022/blob/main/downloads/%E9%9B%B6%E4%BB%B6%E5%88%97%E8%A1%A8.txt" title="列表">列表</a></p>
